@@ -121,6 +121,10 @@ Run the database migrations to set up your database structure:
 
 php artisan migrate
 
+for further and seed data
+
+php artisan db:seed
+
 
 ---
 
